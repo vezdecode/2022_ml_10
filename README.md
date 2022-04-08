@@ -1,8 +1,8 @@
 # MACHINE LEARNING - 10
 - Команда: tipatima
 - Задание: ML - 10 баллов
-# How to run
+## How to run
 
-# Contact
+## Contact
 * VK - [Перминов Никита](https://vk.com/visoyn)
 * Telegram - [begenFys](https://t.me/begenFys)
